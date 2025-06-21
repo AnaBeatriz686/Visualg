@@ -1,5 +1,5 @@
 Algoritmo "soma1_100"
-// Descrição   : Soma os números inteiros de 1 a 100
+// Soma os números inteiros de 1 a 100
 
 Var
 // Seção de Declarações das variáveis 
