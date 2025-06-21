@@ -1,5 +1,6 @@
 Algoritmo "divisao"
 // Faz a divisao dois números inteiros.
+
 Var
    // Seção de Declarações das variáveis
    A, B, Q, R: inteiro
