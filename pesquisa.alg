@@ -1,9 +1,11 @@
 Algoritmo "pesquisa"
 // Pesquisa de satisfação com clientes.
+
 Var
    // Seção de Declarações das variáveis
    R: caractere
    avaliacao, total, I: inteiro
+
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
    total := 0
